@@ -12,6 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Krise,#034445,#08c4c4,1,1.0
 'Öl',de,Energietransitionen,#f00ced,#460345,3,0.9504347254545454
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.9367967268181818
-'Fossile Energie',de,Energiepolitik,#11079a,#070344,2,0.9004072904545455
 'Gas',de,Energietransitionen,#f00ced,#9b0799,2,0.85501633
 'Bayern',de,Energiepolitik,#11079a,#1a0bef,2,0.8106916841136363
+'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.80666257825
