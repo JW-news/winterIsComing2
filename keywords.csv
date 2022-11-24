@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#f00b20,#9b0815,1,1.0
-'Gas',de,Energietransitionen,#f00ced,#9b0799,1,1.0
 'Windräder',de,Energietransitionen,#f00ced,#70056f,1,1.0
 'Putin',de,Energiepolitik,#11079a,#0c056f,1,1.0
 'Energiepreise',de,Krise,#034445,#056e6f,1,1.0
@@ -14,4 +13,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#034445,#011a1a,1,1.0
 'Energie sparen',de,Krise,#034445,#08c4c4,1,1.0
 'Öl',de,Energietransitionen,#f00ced,#460345,3,0.9504347254545454
+'Gas',de,Energietransitionen,#f00ced,#9b0799,2,0.85501633
 'Bayern',de,Energiepolitik,#11079a,#1a0bef,2,0.8106916841136363
