@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Russland,#47c408,#379907,3,0.9505360054545454
-'Energiepreise',de,Krise,#034445,#056e6f,3,0.9367967268181818
 'Gasspeicher',de,Krise,#034445,#034444,3,0.9276838427272728
 'Energie sparen',de,Krise,#034445,#08c4c4,2,0.923146923181818
+'Energiepreise',de,Krise,#034445,#056e6f,5,0.9194377159772728
 'Putin',de,Energiepolitik,#11079a,#0c056f,3,0.891779381
 'fossile Energie',de,Energiepolitik,#11079a,#070344,2,0.8776800177272727
 'Inflation',de,Krise,#034445,#011a1a,3,0.8745266052272727
