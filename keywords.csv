@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Krise,#034445,#0beeee,3,0.6379924628882359
-'Energiepreise',de,Krise,#034445,#056e6f,3,0.6130935999746009
 'Krieg',de,Russland,#47c408,#379907,3,0.6064413045149815
 'Bayern',de,Energiepolitik,#11079a,#1a0bef,3,0.6031594454514025
 'Öl',de,Energietransitionen,#f00ced,#460345,3,0.5925399881211956
 'Inflation',de,Krise,#034445,#011a1a,3,0.5892090207619447
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.5827913109219952
+'Energiepreise',de,Krise,#034445,#056e6f,3,0.5806470195238652
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.577913477392776
 'Gasspeicher',de,Krise,#034445,#034444,3,0.5745388146100084
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.57123602901349
