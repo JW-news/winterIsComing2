@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.4134210861052057
 'Heizen',de,Krise,#034445,#0beeee,3,0.409487809413796
 'Inflation',de,Krise,#034445,#011a1a,3,0.4028791547695171
-'Energie sparen',de,Krise,#034445,#08c4c4,3,0.38880547423166
 'Winter',de,Winter,#f00b20,#9b0815,3,0.3785770491555199
 'Gasspeicher',de,Krise,#034445,#034444,3,0.3775052174844223
+'Energie sparen',de,Krise,#034445,#08c4c4,3,0.37180617946054734
 'Abhängigkeit',de,Russland,#47c408,#286f05,3,0.3508108386549557
 'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.1880683413948445
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.1220997413832571
