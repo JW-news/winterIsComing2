@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.3823147272090488
 'Gasspeicher',de,Krise,#034445,#034444,3,0.3775052174844223
 'Heizen',de,Krise,#034445,#0beeee,3,0.3711620771878311
-'Abhängigkeit',de,Russland,#47c408,#286f05,3,0.3637726458145691
-'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.35299261003501714
+'Abhängigkeit',de,Russland,#47c408,#286f05,3,0.3550757248514746
+'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.3529926100350171
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.352811069359647
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.3488541158939855
 'Inflation',de,Krise,#034445,#011a1a,3,0.3346493031391578
