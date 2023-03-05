@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Krise,#034445,#011a1a,3,0.4300860237446259
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.3979254432730922
+'Inflation',de,Krise,#034445,#011a1a,3,0.39329824291020477
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.3843017261790756
 'Gasspeicher',de,Krise,#034445,#034444,3,0.3359880684631564
 'Bayern',de,Energiepolitik,#11079a,#1a0bef,3,0.3247720120843765
@@ -16,4 +16,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.1193247448983816
 'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0823354376800226
 'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0811592927332383
-'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.046985050054695665
+'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0469850500546956
