@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#034445,#011a1a,3,0.33820405313377
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.3167288766697216
 'Gasspeicher',de,Krise,#034445,#034444,2,0.3098320970655746
-'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.3021329703892791
 'Winter',de,Winter,#f00b20,#9b0815,3,0.2957789966102002
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.2772286789777777
+'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.27540319846725086
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.2468746959637635
 'Abhängigkeit',de,Russland,#47c408,#286f05,3,0.2055437456914506
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0820165165347255
