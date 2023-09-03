@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#f00b20,#9b0815,3,0.2262118968113837
 'Öl',de,Energietransitionen,#f00ced,#460345,3,0.2194570526574907
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.1616760776914791
+'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.12153916547171643
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.1151881050023046
-'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0783384123196664
 'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0737004093611634
 'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0690557374569053
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0651646319445866
