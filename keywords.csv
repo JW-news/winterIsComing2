@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Energiepolitik,#11079a,#0c056f,3,0.339191185145368
 'Bayern',de,Energiepolitik,#11079a,#1a0bef,3,0.291671498416658
+'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.2890344209634288
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.2801548099773861
-'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.2753658364275633
 'Heizen',de,Krise,#034445,#0beeee,3,0.2729515700017252
 'Abhängigkeit',de,Russland,#47c408,#286f05,3,0.2705635248044598
 'Inflation',de,Krise,#034445,#011a1a,3,0.2621949597871357
