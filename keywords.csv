@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bayern',de,Energiepolitik,#11079a,#1a0bef,3,0.307364518320571
 'Winter',de,Winter,#f00b20,#9b0815,3,0.290866535566711
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.2837575480835295
-'Gasspeicher',de,Krise,#034445,#034444,3,0.2609186632045297
+'Gasspeicher',de,Krise,#034445,#034444,3,0.2630956100874866
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.2599339977649973
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.2457277784743311
 'Öl',de,Energietransitionen,#f00ced,#460345,3,0.2405244138118457
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#034445,#011a1a,3,0.2221337114930743
 'Heizen',de,Krise,#034445,#0beeee,3,0.2190027617883844
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.1630715590459832
-'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.06481963340748717
+'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0648196334074871
 'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0586449068647719
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0542844878597854
 'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0503464960046303
