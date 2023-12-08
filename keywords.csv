@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Russland,#47c408,#379907,3,0.2126394364493251
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.2029339835127104
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.2025133549816134
-'Energiepreise',de,Krise,#034445,#056e6f,3,0.1845160238380357
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.1742282129637537
+'Energiepreise',de,Krise,#034445,#056e6f,3,0.16179844526233034
 'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.1111130456181995
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0687505757422216
 'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0670008158284154
