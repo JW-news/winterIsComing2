@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abhängigkeit',de,Russland,#47c408,#286f05,3,0.2187510867502346
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.2177415623432789
 'Heizen',de,Krise,#034445,#0beeee,3,0.2113724864200389
-'Öl',de,Energietransitionen,#f00ced,#460345,3,0.2082799039808753
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.2068143787238799
 'Inflation',de,Krise,#034445,#011a1a,3,0.1956175726245219
+'Öl',de,Energietransitionen,#f00ced,#460345,3,0.18200156838374404
 'Gasspeicher',de,Krise,#034445,#034444,3,0.1797163490872265
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.1665663033092058
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.1617984452623303
