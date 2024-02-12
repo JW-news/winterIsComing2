@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bayern',de,Energiepolitik,#11079a,#1a0bef,3,0.2874593921281973
 'Krieg',de,Russland,#47c408,#379907,3,0.2690426234933891
-'Kälte',de,Winter,#f00b20,#c50a1b,3,0.2240547486725131
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.222039350278964
+'Kälte',de,Winter,#f00b20,#c50a1b,3,0.21813513409890886
 'Winter',de,Winter,#f00b20,#9b0815,3,0.2164955122308544
 'Heizen',de,Krise,#034445,#0beeee,3,0.2043084651477063
 'Putin',de,Energiepolitik,#11079a,#0c056f,3,0.2040558797522961
@@ -15,5 +15,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.1540799234402205
 'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0653228063679982
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0537213843915276
-'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.051635649429702155
+'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0516356494297021
 'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0411227865933492
