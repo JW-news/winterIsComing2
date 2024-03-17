@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.2749041262911894
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.2589800812477818
 'Krieg',de,Russland,#47c408,#379907,3,0.2569250219921672
-'Gasspeicher',de,Krise,#034445,#034444,2,0.21339005086859075
+'Öl',de,Energietransitionen,#f00ced,#460345,3,0.21949849873876764
+'Gasspeicher',de,Krise,#034445,#034444,2,0.2133900508685907
 'Heizen',de,Krise,#034445,#0beeee,3,0.2051956060093492
-'Öl',de,Energietransitionen,#f00ced,#460345,3,0.2042637621525609
 'Bayern',de,Energiepolitik,#11079a,#1a0bef,3,0.1980081311656283
 'Winter',de,Winter,#f00b20,#9b0815,3,0.1946631887706526
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.1924542894294437
