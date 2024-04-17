@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abhängigkeit',de,Russland,#47c408,#286f05,3,0.1831473010250545
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.1816932808221568
 'Heizen',de,Krise,#034445,#0beeee,3,0.178286046331804
-'Kälte',de,Winter,#f00b20,#c50a1b,3,0.17294327235020626
+'Kälte',de,Winter,#f00b20,#c50a1b,3,0.1729432723502062
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.169653129204151
 'Winter',de,Winter,#f00b20,#9b0815,3,0.1680616096118594
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.1219762194264986
 'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0528846981716488
 'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0523488055552361
+'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.04884814154109869
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0467868278309424
-'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0462954964654637
