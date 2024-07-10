@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Öl',de,Energietransitionen,#f00ced,#460345,3,0.1913293387579929
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.1796016962315213
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.1750298636819489
-'Inflation',de,Krise,#034445,#011a1a,3,0.16996169155909063
+'Inflation',de,Krise,#034445,#011a1a,3,0.1699616915590906
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.1621332757973186
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.1571853470352908
 'Gasspeicher',de,Krise,#034445,#034444,1,0.1535009994781928
@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Krise,#034445,#0beeee,3,0.1226617777798194
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.0794358657508348
 'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0577783029295242
-'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0419184195940209
+'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.04967290074582685
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,2,0.0415891426687197
 'fossile Energie',de,Energiepolitik,#11079a,#070344,2,0.0396611536051173
