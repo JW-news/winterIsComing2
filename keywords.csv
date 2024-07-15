@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.1750298636819489
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.1654939471549935
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.1571853470352908
+'Abhängigkeit',de,Russland,#47c408,#286f05,3,0.15551928267042386
 'Gasspeicher',de,Krise,#034445,#034444,1,0.1535009994781928
-'Abhängigkeit',de,Russland,#47c408,#286f05,3,0.1343499662432794
 'Heizen',de,Krise,#034445,#0beeee,3,0.1226617777798194
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.0794358657508348
-'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.05256289249009557
+'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0525628924900955
 'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0496729007458268
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,2,0.0491442270549859
 'fossile Energie',de,Energiepolitik,#11079a,#070344,2,0.0464480740521899
