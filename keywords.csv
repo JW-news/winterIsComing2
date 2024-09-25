@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.1579723772100487
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.147132832830923
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.1075191467033791
+'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.07367821912505225
 'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0725277445625191
-'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0648131182219866
 'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0389822170189325
 'fossile Energie',de,Energiepolitik,#11079a,#070344,2,0.0314122245466845
