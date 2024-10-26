@@ -8,12 +8,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#034445,#011a1a,3,0.210173492972243
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.1897846287881676
 'Winter',de,Winter,#f00b20,#9b0815,3,0.1720250320245072
+'Heizen',de,Krise,#034445,#0beeee,3,0.17043653566306255
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.1652280184842701
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.1592496613464852
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.147132832830923
 'Gasspeicher',de,Krise,#034445,#034444,1,0.143820851965734
-'Heizen',de,Krise,#034445,#0beeee,3,0.135861659603603
 'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0702644255759922
-'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.06086382691507746
+'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0608638269150774
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0451010022979392
 'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0438681594291985
