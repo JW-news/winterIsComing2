@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.2854121411038852
 'Winter',de,Winter,#f00b20,#9b0815,3,0.2707706991069155
 'Öl',de,Energietransitionen,#f00ced,#460345,3,0.2415053445210701
+'Heizen',de,Krise,#034445,#0beeee,3,0.2385387629086709
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.2281765182767336
 'Putin',de,Energiepolitik,#11079a,#0c056f,3,0.2269466502975408
-'Heizen',de,Krise,#034445,#0beeee,3,0.2159818916572599
 'Gasspeicher',de,Krise,#034445,#034444,2,0.191504262798441
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.1909036182739658
 'Abhängigkeit',de,Russland,#47c408,#286f05,3,0.186808554897757
