@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#f00b20,#9b0815,3,0.3147353257001994
 'Öl',de,Energietransitionen,#f00ced,#460345,3,0.2891330731210185
 'Krieg',de,Russland,#47c408,#379907,3,0.2641360436752484
-'Putin',de,Energiepolitik,#11079a,#0c056f,3,0.2459197952476759
 'Heizen',de,Krise,#034445,#0beeee,3,0.2385387629086709
-'Gasspeicher',de,Krise,#034445,#034444,2,0.21773006337867482
+'Putin',de,Energiepolitik,#11079a,#0c056f,3,0.21857529550597907
+'Gasspeicher',de,Krise,#034445,#034444,2,0.2177300633786748
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.2167803074322127
 'Inflation',de,Krise,#034445,#011a1a,3,0.202470357635215
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.2003660798566501
