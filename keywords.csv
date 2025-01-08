@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Putin',de,Energiepolitik,#11079a,#0c056f,3,0.39888588780071826
+'Putin',de,Energiepolitik,#11079a,#0c056f,3,0.3988858878007182
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.3751745491277869
 'Öl',de,Energietransitionen,#f00ced,#460345,3,0.284331375325096
 'Bayern',de,Energiepolitik,#11079a,#1a0bef,3,0.2580090960738453
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.1909036182739658
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.178286861942005
 'Abhängigkeit',de,Russland,#47c408,#286f05,3,0.1679748682084574
-'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.1038992034395626
+'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.09326534292362822
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0840685011539186
 'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0577134087602768
 'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0528360901130518
