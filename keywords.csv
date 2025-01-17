@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.2848486388808294
 'Öl',de,Energietransitionen,#f00ced,#460345,3,0.2706850532677276
 'Krieg',de,Russland,#47c408,#379907,3,0.2634447780676161
+'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.2620659820940076
 'Bayern',de,Energiepolitik,#11079a,#1a0bef,3,0.2534756421312612
 'Putin',de,Energiepolitik,#11079a,#0c056f,3,0.2530725236737922
-'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.238314879468886
 'Inflation',de,Krise,#034445,#011a1a,3,0.2229589548372292
 'Heizen',de,Krise,#034445,#0beeee,3,0.2224789134501397
 'Winter',de,Winter,#f00b20,#9b0815,3,0.2112145146403342
