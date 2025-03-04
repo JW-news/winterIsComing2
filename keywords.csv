@@ -7,13 +7,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#034445,#011a1a,3,0.2237496155794577
 'Winter',de,Winter,#f00b20,#9b0815,3,0.208155556008851
 'Heizen',de,Krise,#034445,#0beeee,3,0.2038739239225669
-'Gasspeicher',de,Krise,#034445,#034444,2,0.1942584865382245
 'Abhängigkeit',de,Russland,#47c408,#286f05,3,0.1893990263942468
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.1845918147747719
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.1815234637400474
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.1805745375785148
+'Gasspeicher',de,Krise,#034445,#034444,1,0.16512017855749084
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.1389445936555394
 'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0846978815977983
-'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.06751781728701897
+'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0675178172870189
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0553430927066094
 'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0488745755025059
