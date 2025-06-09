@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#f00b20,#9b0815,3,0.2031308533548858
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.1656515115047785
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.1630809306871643
-'Heizen',de,Krise,#034445,#0beeee,3,0.15618067755752432
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.1472866656065648
+'Heizen',de,Krise,#034445,#0beeee,3,0.14679687001480474
 'Gasspeicher',de,Krise,#034445,#034444,1,0.1384989969322276
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.1095290765053436
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.100422353558772
