@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.1650451344453803
 'Winter',de,Winter,#f00b20,#9b0815,3,0.1649961285971083
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.1608895404911858
-'Heizen',de,Krise,#034445,#0beeee,3,0.1509712458751236
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.1457736114331742
+'Heizen',de,Krise,#034445,#0beeee,3,0.1378257985393096
 'Öl',de,Energietransitionen,#f00ced,#460345,3,0.1366955723529875
 'Gasspeicher',de,Krise,#034445,#034444,2,0.1107950514845041
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.1015726830039538
