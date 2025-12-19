@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Russland,#47c408,#379907,3,0.2125927594369365
-'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.20391665831437672
+'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.2039166583143767
 'Putin',de,Energiepolitik,#11079a,#0c056f,3,0.1989660180489856
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.1799671315094509
+'Winter',de,Winter,#f00b20,#9b0815,3,0.17080083697530848
 'Bayern',de,Energiepolitik,#11079a,#1a0bef,3,0.1693402240977898
 'Öl',de,Energietransitionen,#f00ced,#460345,3,0.1687153763310412
-'Winter',de,Winter,#f00b20,#9b0815,3,0.1683273697035715
 'Abhängigkeit',de,Russland,#47c408,#286f05,3,0.1610367888518035
 'Heizen',de,Krise,#034445,#0beeee,3,0.1601577952470559
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.157179461072929
