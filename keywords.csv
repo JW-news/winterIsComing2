@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.157179461072929
 'Inflation',de,Krise,#034445,#011a1a,3,0.1513955210733802
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.1247853461325064
-'Gasspeicher',de,Krise,#034445,#034444,2,0.12283845067617645
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.1126391030224883
+'Gasspeicher',de,Krise,#034445,#034444,2,0.10456319307474994
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0536486989702252
 'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0478094261021277
 'fossile Energie',de,Energiepolitik,#11079a,#070344,2,0.0447767795124592
