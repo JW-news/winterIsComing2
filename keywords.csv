@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Energiepolitik,#11079a,#0c056f,3,0.2712797006506869
-'Winter',de,Winter,#f00b20,#9b0815,3,0.2283368962650516
+'Winter',de,Winter,#f00b20,#9b0815,3,0.24000450773438475
 'Krieg',de,Russland,#47c408,#379907,3,0.1949818505618784
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.1882520797557627
 'Heizen',de,Krise,#034445,#0beeee,3,0.186542691414543
@@ -15,5 +15,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.0999563602390645
 'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0534648965905676
 'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0456262026679806
-'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.04226988273437467
+'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0422698827343746
 'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0348104432994786
