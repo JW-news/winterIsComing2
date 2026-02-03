@@ -2,10 +2,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.3001479485351228
 'Winter',de,Winter,#f00b20,#9b0815,3,0.2725526219845697
 'Bayern',de,Energiepolitik,#11079a,#1a0bef,3,0.2298198847221041
-'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.2232604948845355
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.2182238831946908
 'Gasspeicher',de,Krise,#034445,#034444,3,0.2056244524965067
 'Putin',de,Energiepolitik,#11079a,#0c056f,3,0.2053796510145728
+'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.20383127474276427
 'Krieg',de,Russland,#47c408,#379907,3,0.1902451002640089
 'Heizen',de,Krise,#034445,#0beeee,3,0.186542691414543
 'Öl',de,Energietransitionen,#f00ced,#460345,3,0.1787306605813461
