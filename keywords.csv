@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Russland,#47c408,#379907,3,0.2796904189090203
 'Bayern',de,Energiepolitik,#11079a,#1a0bef,3,0.2669776065205071
+'Öl',de,Energietransitionen,#f00ced,#460345,3,0.23891353303985502
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.2363376004162649
 'Putin',de,Energiepolitik,#11079a,#0c056f,3,0.2227293191487886
-'Öl',de,Energietransitionen,#f00ced,#460345,3,0.2217415206885995
 'Inflation',de,Krise,#034445,#011a1a,3,0.2212118807377035
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.2160130392401886
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.211043339162126
