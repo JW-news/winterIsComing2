@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#f00b20,#9b0815,3,0.2132561732931923
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.211043339162126
 'Inflation',de,Krise,#034445,#011a1a,3,0.2066341922634116
-'Öl',de,Energietransitionen,#f00ced,#460345,3,0.1934888754278142
 'Gasspeicher',de,Krise,#034445,#034444,1,0.1851467436789073
 'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.1827601346010361
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.1796562768852831
+'Öl',de,Energietransitionen,#f00ced,#460345,3,0.1739884336590966
 'Heizen',de,Krise,#034445,#0beeee,3,0.1352787059651672
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.1211381619407943
 'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0748820279412887
