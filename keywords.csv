@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Krise,#034445,#034444,2,0.1843498537816284
 'Winter',de,Winter,#f00b20,#9b0815,3,0.1818380326845019
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.1783770134239926
-'Abhängigkeit',de,Russland,#47c408,#286f05,3,0.17432803280588988
+'Abhängigkeit',de,Russland,#47c408,#286f05,3,0.1743280328058898
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.1736381586086673
 'Inflation',de,Krise,#034445,#011a1a,3,0.1719885142551382
 'Energiepreise',de,Krise,#034445,#056e6f,3,0.1409286156980889
@@ -15,5 +15,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.1020972747859811
 'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0538220961101788
 'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.041756957883292
-'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0412634256799522
+'Fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.03687460182795937
 'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0362199352341063
