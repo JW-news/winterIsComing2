@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Russland,#47c408,#379907,3,0.2961069131855813
 'Öl',de,Energietransitionen,#f00ced,#460345,3,0.2389229067780626
 'Gasspeicher',de,Krise,#034445,#034444,2,0.1843498537816284
+'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.17783231513920203
 'Inflation',de,Krise,#034445,#011a1a,3,0.1719885142551382
-'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.1712846974899703
 'Winter',de,Winter,#f00b20,#9b0815,3,0.1686260668727357
 'Windräder',de,Energietransitionen,#f00ced,#70056f,3,0.1678652733887957
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.1659527557652324
@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Krise,#034445,#0beeee,3,0.1173153331132294
 'Energie sparen',de,Krise,#034445,#08c4c4,3,0.1020972747859811
 'fossile Energie',de,Energiepolitik,#11079a,#070344,3,0.0538220961101788
-'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.049536318291707286
+'nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0495363182917072
 'Nachhaltige Energie',de,Energietransitionen,#f00ced,#9a0799,3,0.0353294939566417
 'Fossile Energie',de,Energiepolitik,#11079a,#070344,2,0.027891041492331
