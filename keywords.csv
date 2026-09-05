@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bayern',de,Energiepolitik,#11079a,#1a0bef,3,0.2902868617791091
 'Krieg',de,Russland,#47c408,#379907,3,0.2739871009353702
 'Öl',de,Energietransitionen,#f00ced,#460345,3,0.2540378271132447
+'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.21067045741377627
 'Gasspeicher',de,Krise,#034445,#034444,2,0.1843498537816284
-'Gas',de,Energietransitionen,#f00ced,#9b0799,3,0.177832315139202
 'Inflation',de,Krise,#034445,#011a1a,3,0.1719885142551382
 'Winter',de,Winter,#f00b20,#9b0815,3,0.1686260668727357
 'Kälte',de,Winter,#f00b20,#c50a1b,3,0.1659527557652324
